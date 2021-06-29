@@ -1,1 +1,2 @@
 # Wikipedia_Wikidata_Alignment
+There are tens of thousands of entries in the Wikipedia and the Wikidata, however, there are few researchs and methods about checking the consistency between the information in the Wikipedia and the data in the Wikidata. In this project, we demonstrate the initial results about trying to utilize the Wikipedia content and their corresponding Wikidata information in Wikipedia to discover the consistency.
